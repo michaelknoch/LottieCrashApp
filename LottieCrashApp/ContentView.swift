@@ -12,7 +12,9 @@ struct AnimationForSwiftUI: UIViewRepresentable {
     func updateUIView(_ uiView: AnimationView, context: Context) {}
     
     func makeUIView(context: Context) -> AnimationView {
+        // both animation files seem to cause the issue
         return AnimationView(name: "checkmark", bundle: .main)
+        // return AnimationView(name: "84896-loader-25d-bear", bundle: .main)
     }
 }
 

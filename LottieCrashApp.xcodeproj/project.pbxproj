@@ -13,6 +13,7 @@
 		5B022429273E882D00B30E56 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B022428273E882D00B30E56 /* Preview Assets.xcassets */; };
 		5B02245E273E88C400B30E56 /* libLottie.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B02245A273E88B400B30E56 /* libLottie.a */; };
 		5B02246D273E897B00B30E56 /* checkmark.json in Resources */ = {isa = PBXBuildFile; fileRef = 5B02246C273E897B00B30E56 /* checkmark.json */; };
+		5BE1B8CA273E8FE6000A62F8 /* 84896-loader-25d-bear.json in Resources */ = {isa = PBXBuildFile; fileRef = 5BE1B8C4273E8FE6000A62F8 /* 84896-loader-25d-bear.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,7 @@
 		5B022438273E882D00B30E56 /* LottieCrashAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LottieCrashAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B02244B273E88B400B30E56 /* Lottie.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Lottie.xcodeproj; path = "lottie-ios/Lottie.xcodeproj"; sourceTree = "<group>"; };
 		5B02246C273E897B00B30E56 /* checkmark.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = checkmark.json; sourceTree = "<group>"; };
+		5BE1B8C4273E8FE6000A62F8 /* 84896-loader-25d-bear.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "84896-loader-25d-bear.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				5B02246C273E897B00B30E56 /* checkmark.json */,
+				5BE1B8C4273E8FE6000A62F8 /* 84896-loader-25d-bear.json */,
 				5B02244B273E88B400B30E56 /* Lottie.xcodeproj */,
 				5B022420273E882C00B30E56 /* LottieCrashApp */,
 				5B02241F273E882C00B30E56 /* Products */,
@@ -312,6 +315,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BE1B8CA273E8FE6000A62F8 /* 84896-loader-25d-bear.json in Resources */,
 				5B022429273E882D00B30E56 /* Preview Assets.xcassets in Resources */,
 				5B022426273E882D00B30E56 /* Assets.xcassets in Resources */,
 				5B02246D273E897B00B30E56 /* checkmark.json in Resources */,
